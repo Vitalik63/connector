@@ -6,8 +6,8 @@ library;
 
 import 'package:flutter/widgets.dart';
 
-class Connector {
-  Connector._();
+class ConnectorIcons {
+  ConnectorIcons._();
 
   static const String _kFontFam = 'Connector';
   static const String _kFontPkg = 'connector_icons';
